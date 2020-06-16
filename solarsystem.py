@@ -1,6 +1,7 @@
-"""Solar
+
 Available Commands:
 .solar
+
 # Edited for FTg by Evelix
 from telethon import events
 import asyncio
