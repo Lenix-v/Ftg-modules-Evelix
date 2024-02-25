@@ -1,3 +1,3 @@
 # Ftg-modules-Evelix
-Анимированые модули для юзербота)
+Animated stickers for tg bot)
 freindly telegram
